@@ -1,0 +1,95 @@
+/*body{
+margin-left:30px
+}
+.comment-name{
+    margin-top: 10px;
+}
+
+.comment-body{
+    margin-top: 10px;
+}
+.comment-date{
+    margin-top: 10px;
+}
+.comment-button{
+    margin-top: 15px;
+
+    button{
+        border-radius: 15px;
+        background-color: #4548f7;
+        color:#fff;
+    }
+}
+
+.comments{
+    margin-top: 10px;
+    margin-left: 400px;
+    max-width: 600px;
+}
+.error-message {
+    color: red;
+  }*/
+.error-msg {
+  color: red;
+  font-size: 0.8em;
+  margin-bottom: 5px;
+}
+
+.comment-list {
+  list-style: none;
+  padding: 0;
+  max-width: 800px;
+}
+
+.comment {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.comment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.comment-name {
+  font-weight: bold;
+}
+
+.comment-date {
+  font-size: 0.8em;
+  color: #666;
+}
+
+.comment-delete,
+.comment-like {
+  border: none;
+  background: none;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+.comment-text {
+  white-space: pre-wrap;
+}
+
+.kotton {
+  border-radius: 15px;
+  background-color: #4548f7;
+  color: #fff;
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+body {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+input {
+  max-width: 600px;
+  margin-top: 15px;
+}/*# sourceMappingURL=komstyle.css.map */
